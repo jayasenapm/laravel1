@@ -1,6 +1,6 @@
 <html>
    <body>
-      <h1>Form For Login Informetion</h1>
+      <h1>Form For Login </h1>
       <?php
          echo Form::open(array('url' => 'foo/bar'));
             echo Form::text('username','Username');
